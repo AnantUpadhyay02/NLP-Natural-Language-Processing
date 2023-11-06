@@ -23,5 +23,8 @@ bar = drinks+food
 
 print(bar)
 
+bar.append("Jin")
+
+print(bar)
 
 
